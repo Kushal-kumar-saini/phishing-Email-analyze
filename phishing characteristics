@@ -1,4 +1,11 @@
 Phishing characteristic in this attachesd mail
- # Fake sender domain     :-    appear as " support@apple-secure.com " which is not a original apple domain
- # Urgency/Threat         :-     Account suspension if not verified in 24 hours
- # Generic Greeting       :-     
+ # Fake sender domain     :-   Appear as " support@apple-secure.com " which is not a original apple domain.
+ # Urgency/Threat         :-   Account suspension if not verified in 24 hours.
+ # Generic Greeting       :-   Begins with “Dear Customer” rather than the user's real name.
+ # Suspicious Link        :-     
+ # Header Mismatch        :-  	SPF failed, and Return-Path doesn't match the From domain.
+ # IP Trace               :-   	Origin IP from a hosting server in an unusual location (e.g., Eastern Europe), not a apple server.
+
+Conclusion :-
+The email contains multiple phishing indicators and is likely a phishing attempt. 
+It should not be trusted, and the user is advised to report it to the impersonated service provider and delete the message.
