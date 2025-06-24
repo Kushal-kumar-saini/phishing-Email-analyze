@@ -1,0 +1,24 @@
+
+Phishing email sample in Plane text format 
+
+#    From: support@apple-secure.com
+#    To: user@example.com
+#    Subject: [Action Required] Your Apple ID Has Been Locked
+
+#    Dear Customer,
+
+#    We noticed suspicious activity in your Apple ID account and, as a security precaution, your account has been temporarily locked.
+
+#     To restore full access to your account, please verify your information by following the secure link below:
+
+#    "" https://appleid.apple-secure.com/verify ""
+
+#     Failure to confirm your identity within 24 hours will result in permanent suspension of your account to protect your personal data.
+
+#     Sincerely,  
+#     Apple Support Team  
+#      © 2025 Apple Inc. All rights reserved.
+
+---
+
+#     Security Tip: Apple will never ask you to confirm personal information via email.  
